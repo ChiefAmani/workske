@@ -116,7 +116,7 @@ A comprehensive financial analysis comparing the Total Cost of Ownership (TCO) o
 By increasing effective client re-engagement by just 10% (e.g., from 20% to 30% of targeted clients re-booking), All Clean Property Services can generate substantial additional revenue. If 100 clients are targeted, an additional 10 clients re-engage, leading to $1,500 in additional revenue per cycle (10 clients * $150/job). If this occurs quarterly, the **Annual Additional Revenue is projected at $6,000**. This demonstrates a clear financial incentive for implementing an automated marketing system.
 
 **Break-Even Analysis:**
-The cost difference between in-house and outsourced solutions over three years is substantial: $34,020 (in-house) vs. $4,320 (outsourced), a difference of **$29,700**. The initial development cost of $22,500 for an in-house system would take over 15 years to "break even" against the monthly savings of not paying for a SaaS subscription ($120/month), without even factoring in ongoing maintenance.
+Comparing the TCOs, the in-house solution has a significantly higher upfront cost and higher ongoing operational costs. The cost difference between in-house and outsourced solutions over three years is substantial: $34,020 (in-house) vs. $4,320 (outsourced), a difference of **$29,700**. Because the in-house system's ongoing monthly operating costs ($320/month) exceed the monthly SaaS subscription costs ($120/month), the in-house system will **never break even**. It is more expensive both upfront and in perpetuity.
 
 **Conclusion of Financial Analysis:** The financial analysis strongly favors an outsourced SaaS solution due to its significantly lower TCO and faster path to profitability. The high upfront development costs and ongoing maintenance burden of an in-house system make it a less financially viable option for a small business seeking to quickly implement an effective marketing strategy.
 
@@ -126,7 +126,7 @@ The decision between an in-house developed system and an outsourced SaaS solutio
 
 | Feature / Factor           | In-House Development                                   | Outsourced (SaaS) Solution                               |
 | :------------------------- | :----------------------------------------------------- | :------------------------------------------------------- |
-| **Cost**                   | High upfront development; lower recurring (APIs, hosting) | Low upfront; higher recurring subscription fees          |
+| **Cost**                   | High upfront development; higher recurring operating costs | Low upfront; lower recurring subscription fees           |
 | **Time to Market**         | Long (development, testing, deployment)                | Short (quick setup, immediate use)                       |
 | **Control & Customization**| Full control, highly customizable                      | Limited to platform features, less customization         |
 | **Features & Functionality**| Built from scratch, requires ongoing development       | Feature-rich, constantly updated by vendor                |
