@@ -49,11 +49,11 @@ This $6,000 annual additional revenue represents a direct increase in recurring 
 
 ## Break-Even Analysis:
 
-Comparing the TCOs, the in-house solution has a significantly higher upfront cost.
+Comparing the TCOs, the in-house solution has a significantly higher upfront cost and higher ongoing operational costs.
 *   **Cost Difference (In-house vs. Outsourced):** $34,020 - $4,320 = **$29,700** (In-house is more expensive over 3 years).
 *   **Monthly SaaS Cost:** $1,440 / 12 = $120/month.
-*   **Time to Recoup Initial In-House Investment (vs. monthly SaaS savings):**
-    *   The initial development cost of $22,500 for an in-house system would take approximately 187.5 months (over 15 years) to "break even" against the monthly savings of not paying for a SaaS subscription ($120/month). This calculation only considers the initial development cost against the recurring SaaS fees, not the ongoing maintenance or infrastructure costs of the in-house system.
+*   **Monthly In-House Operating Cost:** $3,840 / 12 = $320/month.
+*   **Time to Recoup Initial In-House Investment:** Because the in-house system's ongoing monthly operating costs ($320) exceed the monthly SaaS subscription costs ($120), the in-house system will **never break even**. It is more expensive both upfront and in perpetuity.
 
 **Conclusion of Financial Analysis:**
 The financial analysis clearly indicates that an outsourced SaaS solution offers a substantially lower Total Cost of Ownership over a three-year period, primarily due to the high upfront development costs associated with building an in-house system. While an in-house system offers full control and customization, the financial burden and time investment are significant. The potential ROI from increased client re-engagement is achievable with either solution, but the path to profitability is much faster and less capital-intensive with an outsourced approach.
