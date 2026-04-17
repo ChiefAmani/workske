@@ -60,7 +60,12 @@ SECTION HEADINGS WITH TARGET WORD COUNTS AND KEY ARGUMENTS:
      - Pros: Complete control over messaging, potentially lower per-message cost at scale, custom integration.
      - Cons: Complex technical implementation, regulatory compliance (TCPA, GDPR) burden, ongoing maintenance, carrier relations.
 
-6. COMPARATIVE ANALYSIS: IN-HOUSE VS. OUTSOURCED (300-400 words)
+6. FINANCIAL ANALYSIS & TCO (200-300 words)
+   - 3-Year Total Cost of Ownership (TCO) comparison between building in-house vs. SaaS subscriptions.
+   - ROI projections based on converting the current 20% manual answer rate to automated recurring revenue.
+   - Break-even analysis for development time vs. monthly SaaS fees.
+
+7. COMPARATIVE ANALYSIS: IN-HOUSE VS. OUTSOURCED (300-400 words)
    - Table or structured comparison of key factors:
      - Cost (upfront vs. recurring)
      - Time to Market
@@ -72,7 +77,7 @@ SECTION HEADINGS WITH TARGET WORD COUNTS AND KEY ARGUMENTS:
      - Integration with existing system
    - Discussion of trade-offs based on All Clean Property Services' context (software developer owner, existing site).
 
-7. RECOMMENDATION (200-300 words)
+8. RECOMMENDATION (200-300 words)
    - Clear statement of the recommended approach (e.g., outsource, in-house, or hybrid).
    - Detailed justification based on the comparative analysis, considering:
      - User's existing development workload and expertise.
@@ -82,6 +87,6 @@ SECTION HEADINGS WITH TARGET WORD COUNTS AND KEY ARGUMENTS:
    - Specific platform suggestions if outsourcing is recommended.
    - Next steps for implementation.
 
-8. CONCLUSION (50-100 words)
+9. CONCLUSION (50-100 words)
    - Reiterate the main finding and the value proposition of the recommended solution.
    - Final thoughts on achieving recurring revenue.
